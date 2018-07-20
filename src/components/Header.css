@@ -1,0 +1,17 @@
+.nav {
+    background-color: white;
+}
+
+.text {
+    color: black;
+}
+
+.brand-logo {
+    color: black !important;
+    margin-left: 2%;
+}
+
+.img {
+    height: 90%;
+    margin-left: 3%;
+}
